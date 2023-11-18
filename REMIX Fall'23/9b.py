@@ -31,7 +31,7 @@ def findMinTime(n, p, d): #minimum time to destroyu all given a the tower data
             if hpower >= p[startTowerIndex + index]:
                 log[startTowerIndex + index]
 
-            hours, hpower += 1
+            hours, hpower += 1 
 
             
         
